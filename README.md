@@ -116,5 +116,5 @@ This script supports **MSE803: Data Analytics** — Assessment 1 (Theory Exam). 
 Saurabh Singh  
 Student ID: 270732411  
 Course: MSE803 Data Analytics  
-Lecturer: Mohammad Norouzifard  
+Lecturer: Dr. Mohammad Norouzifard  
 Submission:14th June 2026
